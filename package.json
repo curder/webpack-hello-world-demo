@@ -1,9 +1,8 @@
 {
-  "name": "hello-world",
-  "version": "0.0.1",
+  "name": "@curder/hello-world",
+  "version": "0.0.2",
   "description": "webpack plugin test.",
   "author": "curder <curder@foxmail.com>",
-  "private": false,
   "main": "dist/hello-world.js",
   "license": "MIT",
   "scripts": {
