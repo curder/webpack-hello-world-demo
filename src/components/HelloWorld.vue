@@ -6,7 +6,7 @@
 <script>
 export default {
   beforeMount() {
-    console.log('hello world from plugin.');
+    alert('hello world from plugin.');
   }
 }
 </script>

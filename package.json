@@ -1,6 +1,6 @@
 {
   "name": "@curder/hello-world",
-  "version": "0.0.2",
+  "version": "0.0.4",
   "description": "webpack plugin test.",
   "author": "curder <curder@foxmail.com>",
   "main": "dist/hello-world.js",
